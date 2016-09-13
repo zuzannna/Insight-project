@@ -1,0 +1,5008 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='painting'/>
+	</head>
+	<results>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9001</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8994</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/149</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF12245</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-6-1-10</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/150</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8989</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-7</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/151</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11686</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0223-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1388</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11687</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0223-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1389</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8950</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0224-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1398</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11719</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1480</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11720</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1481</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11722</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1483</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11723</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1484</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11724</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1485</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8941</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0303-0-7</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1486</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9029</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0408-0-1-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/1615</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11755</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0413-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2084</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9146</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0413-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2085</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9243</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0701-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2168</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11771</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2297</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11772</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2298</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11773</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2299</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8947</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2302</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11766</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2303</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11767</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2304</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11768</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2305</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11769</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2307</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11770</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0520-0-6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2308</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11774</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2314</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11775</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2315</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11776</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2316</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11777</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-7</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2317</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8948</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0522-0-8</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2318</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11778</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0523-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2330</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11779</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0523-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2331</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8955</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0702-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2539</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8935</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0702-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2540</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFM1588</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1981-0703-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/2572</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1981-0708-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/3119</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8904</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-1022-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/3560</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF11941</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-1007-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/3822</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8933</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-1008-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/3823</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8980</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1981-0808-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/4083</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8912</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0330-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5096</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2836</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1982-0521-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5380</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8943</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0518-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5678</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9245</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0518-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5679</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8960</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0518-0-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5680</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8991</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0520-0-1-1-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5720</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9002</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0520-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5721</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFM1589</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1982-0529-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/5860</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2811</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6546</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2812</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6547</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2813</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6548</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC391</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6549</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC605</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6550</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC606</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6551</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC607</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-7</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6552</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC608</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-8</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6553</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC609</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-9</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6554</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC610</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-10</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6555</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC611</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-11</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6556</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC612</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-12</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6557</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC613</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-13</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6558</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC614</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-14</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6559</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC615</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-15</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6560</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC616</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-16</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6561</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC617</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-17</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6562</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC618</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-18</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6563</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC619</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-19</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6564</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC620</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-20</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6565</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC621</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-21</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6566</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC625</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-23</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6568</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC626</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-24</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6569</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC627</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-25</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6570</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC628</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-26</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6571</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC629</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-27</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6572</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC630</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-28</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6574</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC631</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6573</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC632</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6576</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC633</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-29</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6575</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC634</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6578</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC635</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-30</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6577</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC636</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6580</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC637</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-31</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6579</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC638</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-32</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6581</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC639</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-33</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6582</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC640</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-34</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6583</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC641</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6585</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC642</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-35</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6584</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC643</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-36</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6586</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC644</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-37</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6587</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC645</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-38</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6588</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC647</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-40</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6590</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC648</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-41</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6591</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC650</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-43</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6593</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC651</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-44-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6594</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31714</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-44-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6595</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31715</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-44-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6596</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC652</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-44-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6597</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31603</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-44-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6598</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC653</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-45</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6599</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC654</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-46</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6600</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC655</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-47</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6601</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC656</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-48</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6602</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC657</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-49</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6603</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC658</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-50</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6604</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31530</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6605</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31531</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6606</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31532</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6607</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31533</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6608</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31534</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6609</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31535</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-6</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6610</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31536</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-7-10</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6611</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC659</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-51-11-13</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6612</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC660</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-52</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/270382</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC661</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6613</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC662</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-53</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6614</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC663</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-54</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6615</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC664</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-55</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6616</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC665</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-56</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6617</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC666</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-57</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6618</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC667</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-58</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6619</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC668</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-59</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6620</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC669</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-60</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6621</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC671</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-62</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6623</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC672</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-63</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6624</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2815</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-64</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6625</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC673</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-65</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6626</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC674</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-66</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6627</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC675</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-67-68</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6628</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC676</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-69</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6629</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC677</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-70</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6630</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC678</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-71</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6631</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC681</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-73-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6634</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC682</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-74</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6635</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC683</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-76</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6636</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC685</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-77</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6637</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC686</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-78</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6638</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC687</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-79</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6639</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC688</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-80</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6640</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC689</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-81</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6641</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC690</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-82-1-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6642</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC696</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-83</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6643</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC697</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-84</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6646</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC698</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-85</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6647</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC699</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-86</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6648</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC700</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-87</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6649</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC701</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-88</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6650</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC702</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-89</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6651</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC703</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-90</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6652</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC704</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-91</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6653</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC705</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-92</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6654</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC706</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-93</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6655</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC707</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-94</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6656</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC708</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-95</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6657</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC709</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-96</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6658</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC710</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-97</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6659</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC711</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-98</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6660</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC712</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-99</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6661</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC713</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-100</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6662</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC714</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-101</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6663</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC715</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-102</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6664</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC716</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-103</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6665</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC717</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-104</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6666</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC718</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-105</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6667</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC719</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-106</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6668</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC720</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-107</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6669</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC721</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-108</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6671</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC722</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6670</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC723</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-109</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6673</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC724</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6672</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC725</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-110</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6674</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC726</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-111</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6675</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC727</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-112</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6676</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC728</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-113</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6677</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC729</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-114</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6678</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC730</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-115</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6679</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC731</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-116</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6680</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC732</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6682</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC733</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-117</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6681</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC734</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-118</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6683</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC735</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-119</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6684</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC736</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-120</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6685</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC737</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-121</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6686</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC738</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-122</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6687</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC739</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-123</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6688</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC740</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-124</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6689</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC741</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6691</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC742</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-125</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6690</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC743</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-126</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6692</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC745</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-128</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6694</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC746</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-129</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6695</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC747</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-130</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6696</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC748</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-131</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6697</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC749</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-132</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6698</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC750</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-133</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6699</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC751</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-134</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6700</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC752</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-135</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6701</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC753</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-136</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6702</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC754</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6704</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC755</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-137</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6703</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC756</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-138</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6705</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC757</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-139</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6706</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC758</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-140</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6707</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC759</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-141</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6708</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC760</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-142</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6709</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC761</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-143</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6710</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC762</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-144</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6711</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC763</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-145</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6712</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC764</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-146</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6713</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC765</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6714</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC766</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-148</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6715</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC767</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-149</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6716</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC768</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-150</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6717</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC769</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-151</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6718</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC770</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-152</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6719</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC772</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-153</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6720</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC773</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-154</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6721</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC774</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-155</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6722</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC775</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-156</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6723</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC776</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6725</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC777</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-157</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6724</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC778</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-158</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6727</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC779</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6726</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC781</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-159</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6728</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC783</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-161</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6730</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC784</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-162</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6731</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC786</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-164</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6733</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC787</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-165</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6734</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC788</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-166</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6735</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC789</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-167</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6736</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC790</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6738</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC791</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-168</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6737</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC792</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6740</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC793</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-169</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6739</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC794</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-170</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6741</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC797</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-174</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6744</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC798</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-177-1-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6745</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC804</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-178-a-c</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6746</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC805</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-179</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6747</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC806</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-180</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6748</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC807</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-181</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6749</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC808</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-182</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6750</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC809</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-183</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6751</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC810</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-184</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6752</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC811</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-185</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6753</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC812</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-186</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6754</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC813</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-187</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6755</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC814</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-188</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6756</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC815</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-189</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6757</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC816</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-190</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6758</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC817</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6760</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC818</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-191</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6759</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC819</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-192</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6761</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31357</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-193-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6762</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC821</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-193-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6763</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC820</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-193</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6764</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC823</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-194-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6765</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC30956</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-194-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6766</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC30957</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-194-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6767</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC826</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-195</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6768</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC827</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-196</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6769</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC828</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-197</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6770</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC829</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-198</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6771</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC830</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-199</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6772</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC831</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-200</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6773</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC832</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-201</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6774</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC834</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-203</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6776</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC835</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-204</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6777</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC836</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-205</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6778</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC837</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-206</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6779</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC838</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-207</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6780</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC839</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-208</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6781</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2992</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-209</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6782</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC840</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-212-1-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6783</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC842</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-213</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6784</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC843</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-214-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6785</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC844</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-214-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6786</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC845</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-215</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6787</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC846</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-216</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6788</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC847</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-217</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6789</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC848</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-218</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6790</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31496</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-219-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6791</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC849</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-219-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6792</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31498</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-219-5</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6793</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC853</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-220</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6794</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC854</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-221-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6795</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC855</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-221-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6796</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC856</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-221-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6797</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC857</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-221-4</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6798</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC859</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-223-b</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6800</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31454</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-224</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6801</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC860</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-225</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6802</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC861</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-226</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6803</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC862</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-227</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6804</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC863</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-228-1-3</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6805</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31362</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-285</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6866</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31363</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-290</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6871</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31374</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-291</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6872</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31375</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-292</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6873</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31364</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-293</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6874</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31475</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-294</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6875</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31365</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-295</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6876</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31366</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-296</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6877</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31367</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-297</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6878</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31368</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-298</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6879</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31477</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-299</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6880</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31424</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1928-1022-0-203</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6881</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31425</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-301</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6882</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31426</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-302</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6883</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31427</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-303</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6884</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31428</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-304</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6885</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31447</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-307</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6888</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31448</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-308</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6889</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31449</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-309</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6890</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31450</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-310</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6891</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31451</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-311</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6892</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31453</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-312</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6893</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC31452</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1919-0101-0-313</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/6894</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC30892</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1978-0626-0-1-a-e</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7263</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RRC7169</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_MAS-888</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7446</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/RFC2236</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/R_1981-1110-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7687</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8940</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-11</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7833</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8978</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-12</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7834</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8973</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-25</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7869</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9010</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-26</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7870</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8972</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-28-1-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7872</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9213</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-1-c</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7976</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9214</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-1-d</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7980</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9030</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-2</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7998</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9051</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-8</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/7999</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8981</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-9</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8000</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9203</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-1-l</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8036</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9212</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-1-b</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8053</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9087</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-10</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8125</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF9017</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-13</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8145</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8977</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-14</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8146</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8976</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0701-0-15</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8147</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8936</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0628-0-1</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/8185</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/JCF8923</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='painting'>
+				<uri>http://collection.britishmuseum.org/id/object/J_1982-0628-0-2</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>
